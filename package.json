@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/comp426-2022-fall/a03-mjsherry#readme",
   "dependencies": {
-    "minimist": "^1.2.7"
+    "minimist": "^1.2.7",
+    "roll-dice": "^0.2.1"
   },
   "bin": {
     "roll-dice": "./bin/cli.js"
